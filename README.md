@@ -132,6 +132,7 @@ Some improvements that can be added in future versions:
 ## Demo
 
 A demo video showing real-time inference is included in this repository.
+<!-- Failed to upload "2026-05-30 22-57-35.mp4" -->
 
 ---
 
