@@ -132,7 +132,7 @@ Some improvements that can be added in future versions:
 ## Demo
 
 A demo video showing real-time inference is included in this repository.
-<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/f67b29db-ec67-45ab-ba7b-368f42a9e309" />
+
 
 ---
 
