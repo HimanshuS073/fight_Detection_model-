@@ -113,28 +113,19 @@ The dataset contains a variety of scenes and motion patterns to help improve rob
 * Prediction smoothing
 * GPU support
 * CCTV video compatibility
-
 ---
-
 ## Future Work
-
 Some improvements that can be added in future versions:
-
 * RTSP camera support
 * Multi-camera monitoring
 * Web dashboard
 * Alert notifications
 * Event logging
 * Fight localization using person detection and tracking
-
 ---
-
 ## Demo
-
 A demo video showing real-time inference is included in this repository.
 ---
-https://github.com/user-attachments/assets/460f0cb4-2fa8-4353-a34c-2d3e659dfcea
-
 ## Note
-
 This project was developed for learning, experimentation, and surveillance AI research. Real-world performance may vary depending on camera angle, lighting conditions, video quality, and scene complexity.
+update some values
